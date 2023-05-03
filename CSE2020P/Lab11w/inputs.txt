@@ -1,0 +1,15 @@
+Vienna
+16.22
+48.12
+Lima
+-77.00
+-12.00
+Kinshasa
+15.15
+-4.20
+Cooperhagen
+12.34
+55.41
+Kathmandu
+85.20
+27.45
